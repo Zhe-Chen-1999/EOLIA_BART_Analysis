@@ -14,3 +14,8 @@ This repository contains the results of a heterogeneous treatment effect (HTE) a
 Treatment effect heterogeneity was assessed using a two-step approach:
 1. Individual-level CATEs were estimated using BART with hyperparameters selected via cross-validation
 2. A CART model was fit to the estimated CATEs to identify patient subgroups with differential treatment effects
+
+## Reference
+
+For methodological details on the variable importance and interaction visualization, see:
+- Inglis A, Parnell A, Hurley C. bartMan: Visualizing and Diagnosing Bayesian Additive Regression Trees. *Journal of Data Science, Statistics, and Visualisation*. 2024.
