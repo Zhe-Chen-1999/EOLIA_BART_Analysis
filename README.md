@@ -9,7 +9,7 @@ This repository contains the code and results for the heterogeneous treatment ef
 
 - Supplementary analyses (`EOLIA_supplementary_analyses.html`):
   - Sensitivity analysis for BART hyperparameters 
-  - Cross-method comparison (BCF, causal forest, XGBoost meta-learners).
+  - Cross-method comparison (Bayesian causal forest, causal forest, XGBoost meta-learners).
   - Risk-stratified treatment effect analysis
  
 - Subgroup analyses by EOLIA enrollment criterion:
