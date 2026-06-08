@@ -7,7 +7,7 @@ This repository contains the code and results for the heterogeneous treatment ef
   - CART-derived subgroup identification
   - Variable importance and interaction heatmaps
 
-- Supplementary analyses (`EOLIA_BART_RD_RR.html`):
+- Supplementary analyses (`EOLIA_supplementary_analyses.html`):
   - Sensitivity analysis for BART hyperparameters 
   - Cross-method comparison (BCF, causal forest, XGBoost meta-learners).
   - Risk-stratified treatment effect analysis
